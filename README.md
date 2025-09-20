@@ -1,0 +1,1 @@
+# UnityPocketBase\n\nUnity integration library for PocketBase backend.\n\n## Features\n- Easy integration with PocketBase API\n- Unity-friendly async operations\n- Type-safe data models\n\n## Installation\nAdd this package as a git submodule in your Unity project.
